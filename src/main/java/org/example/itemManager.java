@@ -19,7 +19,6 @@ public class itemManager {
             stmt.execute();
         }
 
-
     }
 
     public item findItem(int code) throws SQLException {

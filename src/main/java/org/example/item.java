@@ -14,6 +14,10 @@ public class item {
 
     }
 
+    public item() {
+
+    }
+
 
     public void setIDitems(int IDitems) {
         this.IDitems = IDitems;
